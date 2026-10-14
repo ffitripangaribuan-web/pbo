@@ -1,0 +1,1 @@
+OBJEK.GetClass_Method
